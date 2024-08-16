@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ianovich](https://github.com/ianovich)
 
-- 💬 Ask me about **SOC operations,digital forensics. Penetration testing, vulnerability assessment, and red teaming. Tools like Metasploit, Nmap, WPScan, Kali linux.**
+- 💬 Ask me about **SOC operations,digital forensics. Penetration testing, vulnerability assessment, and red teaming. Tools like Burp Suite, Metasploit, Nmap, WPScan,OWASP ZAP, Kali linux.**
 
 - 📫 How to reach me **imunyasya23@gmail.com**
 
