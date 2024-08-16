@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **imunyasya23@gmail.com**
 
-- ⚡ Fun fact **I safeguard digital assets with advanced security and proactive monitoring.**
+- ⚡ Fun fact **I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
