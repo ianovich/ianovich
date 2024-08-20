@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Mumangi</h1>
-<h3 align="center">A dedicated CyberSecurity Analyst from Kenya specializing in both defense and offensive security.</h3>
+<h3 align="center">A dedicated CyberSecurity Analyst from Kenya specializing in both defensive and offensive security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianovich&label=Profile%20views&color=0e75b6&style=flat" alt="ianovich" /> </p>
 
