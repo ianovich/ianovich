@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Advanced Penetration Testing with Metasploit and Custom Scripts**
 
-- 🌱 I’m currently learning **Learner at LetsDefend SSOC Analyst Path.Digital Forensics and Incident Response (DFIR) methodologies.threat detection and hunting techniques**
+- 🌱 I’m currently a **Learner at LetsDefend SOC Analyst Path. Digital Forensics and Incident Response (DFIR) methodologies.threat detection and hunting techniques**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ianovich](https://github.com/ianovich)
 
