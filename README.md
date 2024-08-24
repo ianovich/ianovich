@@ -9,6 +9,15 @@
 
 - 🌱 I’m currently a **Learner at LetsDefend SOC Analyst Path. Digital Forensics and Incident Response (DFIR) methodologies.threat detection and hunting techniques**
 
+- ## Cyber Security Projects
+-  Writeups
+-  https://github.com/ianovich/Lets-Defend-Labs-SOC-Phishing-Alert 
+-  https://github.com/ianovich/SQL-Injection-Vulnerability-Login-Bypass
+-  https://github.com/ianovich/Vulnerable-Wordpress-Vulnerability-Assessment-using-Wpscan 
+-  https://github.com/ianovich/SQL-Injection-lab-Web-Security-Academy-Portswigger-
+-  https://github.com/ianovich/OWASP-Juice-shop-Broken-JWT-Authentication-
+-  https://github.com/ianovich/Remote-Server-Exploit
+
 - 👨‍💻 All of my projects are available at [https://github.com/ianovich](https://github.com/ianovich)
 
 - 💬 Ask me about **SOC operations,digital forensics. Penetration testing, vulnerability assessment, and purple teaming. Tools like Burp Suite, Metasploit, Nmap, WPScan,OWASP ZAP, Kali linux.**
