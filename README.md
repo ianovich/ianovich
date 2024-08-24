@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Advanced Penetration Testing with Metasploit and Custom Scripts**
+- 🔭 I have worked on **Advanced Penetration Testing with Metasploit and other tools**
 
 - 🌱 I’m currently a **Learner at LetsDefend SOC Analyst Path. Digital Forensics and Incident Response (DFIR) methodologies.threat detection and hunting techniques**
 
