@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Mumangi</h1>
-<h3 align="center">A dedicated CyberSecurity Analyst from Kenya specializing in both defensive and offensive security.</h3>
+<h3 align="center">A dedicated CyberSecurity Analyst from Kenya specializing in  defensive security (SOC Analyst).</h3>
 <h3 align="center">Hit me up on any CyberSecurity collaborations or projects using my email  😃 </h3>
 - 📫 How to reach me : <b>imunyasya23@gmail.com</b> 
 
