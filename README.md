@@ -13,7 +13,8 @@
 - 🌱 I’m currently a **Learner at LetsDefend SOC Analyst Path. Digital Forensics and Incident Response (DFIR) methodologies.threat detection and hunting techniques**
 
 - ## 👨‍💻 Cyber Security Projects
--  Writeups
+- ### Writeups
+-  https://github.com/ianovich/Lets-Defend-Check-Point-Security-Gateway-Arbitrary-File-Read-SOC-Alert
 -  https://github.com/ianovich/Lets-Defend-Labs-SOC-Phishing-Alert 
 -  https://github.com/ianovich/SQL-Injection-Vulnerability-Login-Bypass
 -  https://github.com/ianovich/Vulnerable-Wordpress-Vulnerability-Assessment-using-Wpscan 
